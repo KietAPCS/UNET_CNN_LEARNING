@@ -65,7 +65,7 @@ Each component is described as follows:
 - **dataset.py**: Script to handle loading and transformations of the dataset.
 - **model.py**: Contains the implementation of the UNet architecture.
 - **train.py**: Script to train the UNet model.
-- **test.py**: Script to test the trained model on new images.
+- **test.py**: Script to test the Dataloader functionality.
 - **utils.py**: Contains helper functions used across the project.
 - **split_data.py**: Script to split the dataset into training and testing sets.
 - **check_cuda.py**: Script to check for the availability of CUDA for GPU acceleration.
